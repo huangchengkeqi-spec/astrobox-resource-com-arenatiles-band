@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "com.arenatiles.band",
+    "restype": "quick_app",
+    "name": "别踩白块",
+    "description": "钢琴块是一款简单有趣的指尖小游戏，没有复杂的规则，跟着节奏点击黑块，别踩到白块就好。\n\n经典、禅和街机三种模式，随时打开就能玩。挑战手速，刷新纪录，在简单的黑白方块中找到纯粹的乐趣。",
+    "preview": [
+      "media/Vela_Virtual_Device-2026-11-14-22-08-05.png",
+      "media/Vela_Virtual_Device-2026-11-14-22-09-21.png",
+      "media/Vela_Virtual_Device-2026-11-14-22-09-39.png",
+      "media/Vela_Virtual_Device-2026-11-14-22-10-23.png",
+      "media/Vela_Virtual_Device-2026-11-14-22-10-41.png"
+    ],
+    "icon": "media/782a6a88-cb0f-42b3-bc34-e1e86a9ad9da.png",
+    "cover": "media/642c5531-76d5-4756-be58-239e0bd5b000.png",
+    "author": [
+      {
+        "name": "xiaozhukeqi",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.arenatiles.band.release.1.1.2.rpk",
+      "versionCode": 4
+    }
+  },
+  "ext": {}
+}
